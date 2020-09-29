@@ -35,7 +35,7 @@ target/
 *.zip
 *.tar
 *.tar.gz
-**/mvnw
+passjava-question/mvnw
 **/mvnw.cmd
 **/.mvn
 
